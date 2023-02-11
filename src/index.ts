@@ -1,7 +1,3 @@
-import React from "react";
-
-function FormBuilder(){
-    return (123);
-}
+import FormBuilder from "./FormBuilder";
 
 export default FormBuilder;
